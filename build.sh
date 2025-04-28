@@ -1,4 +1,4 @@
-#!/bin bash
+#!/bin/bash
 
 # Make docs folder if it doesn't exist
 if [ ! -d "docs" ]; then
